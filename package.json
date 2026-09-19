@@ -1,0 +1,12 @@
+{
+  "name": "snipergold-v10-fixed-v4",
+  "version": "10.0.0",
+  "dependencies": {
+    "cordova-android": "^14.0.0"
+  },
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  }
+}
